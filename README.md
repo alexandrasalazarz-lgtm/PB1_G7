@@ -4,4 +4,4 @@
 -Luciana Belén Vega Llanos \
 -Almendra Paola Yataco Diaz \
 -Alexandra Estephanía Salazar Zarate \
--Camila Estefanía Araujo Correa \
+-Camila Estefanía Araujo Correa
