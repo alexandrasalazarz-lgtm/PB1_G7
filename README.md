@@ -8,4 +8,4 @@
 
 
 ## Diagrama de gantt
-[Ver cronograma del proyecto](https://github.com/users/alexandrasalazarz-lgtm/projects/6/settings)
+[Ver cronograma del proyecto](https://github.com/users/alexandrasalazarz-lgtm/projects/6/views/1)
