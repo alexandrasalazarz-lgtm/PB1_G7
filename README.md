@@ -5,3 +5,7 @@
 -Almendra Paola Yataco Diaz \
 -Alexandra Estephanía Salazar Zarate \
 -Camila Estefanía Araujo Correa
+
+
+## Diagrama de gantt
+https://github.com/users/alexandrasalazarz-lgtm/projects/6/settings
